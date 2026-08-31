@@ -1,0 +1,15 @@
+﻿# Executables and binaries
+*.exe
+*.out
+*.app
+*.bin
+
+# Object files
+*.o
+*.obj
+
+# Temporary and editor files
+.vscode/
+.idea/
+*.swp
+*~
